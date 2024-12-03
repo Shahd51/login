@@ -1,0 +1,42 @@
+ body {
+     background-color: #24353F;
+ }
+
+ .container {
+     width: 60%;
+     border-color: #24353F;
+     border-radius: 10px;
+     background-color: #24353F;
+ }
+
+ .container h2 {
+     color: #17A2B8;
+     font-size: 40px;
+     font-weight: 500;
+ }
+
+ .input ::placeholder {
+     color: #B6B6AB;
+ }
+
+ .btn-outline-info{
+    color: #17a2b8;
+    background-color: transparent;
+    background-image: none;
+    border-color: #17a2b8;
+ }
+
+ .btn-outline-info:hover {
+     background-color: #17a2b8 ;
+     color: white;
+ }
+
+ a {
+     text-decoration: none;
+     color: white;
+ }
+
+
+ .group{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+ }
